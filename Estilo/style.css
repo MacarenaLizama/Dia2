@@ -1,0 +1,30 @@
+body{
+    font-family:cursive;
+    }
+
+#titulo{
+    background-color: black;
+    text-align: left;
+    font-size: 60 px;
+    margin-bottom:1%;
+    }
+
+#subtitulo{
+    background-color: rgb(102, 79, 143);
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight:lighter;
+    font-size:30 px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    }
+
+#bajada{
+    background-color: rgb(127, 157, 241);
+    color: rgb(65, 65, 189);
+    text-align: right;
+    text-decoration: underline;
+    font-size:15px;
+    margin-top: 1%;
+    }
